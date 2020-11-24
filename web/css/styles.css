@@ -1,0 +1,14 @@
+:root {
+    --title-color: #ff3415;
+    --primary-color: #3f3f3f;
+}
+
+.body {
+    background-color: var(--primary-color);
+}
+
+.title {
+    font-size: 2rem;
+    color: var(--title-color);
+    margin: center;
+}
